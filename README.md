@@ -1,2 +1,2 @@
 # ensemble-square
-Toolkit to ensemble models and scenarios
+Repository for the ensemble-square project
