@@ -130,3 +130,7 @@ dmypy.json
 
 # Mac
 .DS_Store
+
+# ignore data
+dat/*
+!dat/locations.csv #Except for locations
