@@ -16,7 +16,7 @@ pip install -r requirements.txt
 in the `ensemble-square` directory.
 
 Also, make sure the [scorepi](https://github.com/gstonge/scorepi) package is installed (not in the requirement list), as well as [jupyter lab or jupyter notebook](https://jupyter.org/install) (whichever is prefered).
-The ```scorepi`` package is also included as a directory, and can be installed directly using
+The `scorepi` package is also included as a directory, and can be installed directly using
 ```
 pip install ./scorepi
 ```
