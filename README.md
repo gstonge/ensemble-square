@@ -16,9 +16,12 @@ pip install -r requirements.txt
 in the `ensemble-square` directory.
 
 Also, make sure the [scorepi](https://github.com/gstonge/scorepi) package is installed (not in the requirement list), as well as [jupyter lab or jupyter notebook](https://jupyter.org/install) (whichever is prefered).
+The ```scorepi`` package is also included as a directory, and can be installed directly using
+```
+pip install ./scorepi
+```
 
-You should now be able to use the notebooks.
-
+## Notebook descriptions
 
 pull_data.ipynb - used to pull model projections from the COVID-19 Scenario Modeling Hub, COVID-19 Forecast Hub, and surveillance data for cases, deaths, and hospitalizations.
 
