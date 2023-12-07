@@ -19,4 +19,11 @@ Also, make sure the [scorepi](https://github.com/gstonge/scorepi) package is ins
 
 You should now be able to use the notebooks.
 
-hello
+
+pull_data.ipynb - used to pull model projections from the COVID-19 Scenario Modeling Hub, COVID-19 Forecast Hub, and surveillance data for cases, deaths, and hospitalizations.
+
+performance_code.ipynb - used to compute scenario ensemble, use different scoring methods to analyze scenario projections, and generate figures related to the scores.
+
+single_model_viz.ipynb - generate figures of projections for a given model, including the scenario projections and scenario ensemble. 
+
+ensemble_order.ipynb - analyze the impact of the ordering of ensembling in the scenario ensemble (ensemble over models then scenarios and vice versa). 
