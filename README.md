@@ -27,3 +27,5 @@ performance_code.ipynb - used to compute scenario ensemble, use different scorin
 single_model_viz.ipynb - generate figures of projections for a given model, including the scenario projections and scenario ensemble. 
 
 ensemble_order.ipynb - analyze the impact of the ordering of ensembling in the scenario ensemble (ensemble over models then scenarios and vice versa). 
+
+scoring data folder - scoring output used for analysis in this project.
