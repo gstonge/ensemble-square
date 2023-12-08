@@ -34,4 +34,8 @@ single_model_viz.ipynb - generate figures of projections for a given model, incl
 
 ensemble_order.ipynb - analyze the impact of the ordering of ensembling in the scenario ensemble (ensemble over models then scenarios and vice versa). 
 
+all_analysis.ipynb - all code for recreating data tables and figures
+
+coverage_fig2.ipynb - code to generate fig 2 in the paper
+
 scoring data folder - scoring output used for analysis in this project.
