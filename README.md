@@ -28,7 +28,9 @@ pip install ./scorepi
 
 pull_data.ipynb - used to pull model projections from the COVID-19 Scenario Modeling Hub, COVID-19 Forecast Hub, and surveillance data for cases, deaths, and hospitalizations.
 
-performance_code.ipynb - used to compute scenario ensemble, use different scoring methods to analyze scenario projections, and generate figures related to the scores.
+performance_code.ipynb - distilled examples to compute scenario ensemble, use different scoring methods to analyze scenario projections, and generate figures related to the scores.
+
+all_analysis.ipynb - used to generate most of the main results
 
 single_model_viz.ipynb - generate figures of projections for a given model, including the scenario projections and scenario ensemble. 
 
